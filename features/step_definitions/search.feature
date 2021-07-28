@@ -1,5 +1,4 @@
-
-Feature : search box  
+Feature: search box  
 
     Scenario: User can search about and view search results   
         Given user open "home page"

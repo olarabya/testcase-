@@ -1,4 +1,4 @@
-Feature:logout from home page 
+Feature: logout from home page 
 
     Scenario: Logout 
         Given a user has an account on amazon.com

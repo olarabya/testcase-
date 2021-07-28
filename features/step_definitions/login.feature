@@ -1,4 +1,4 @@
-Feature :Login 
+Feature:Login 
 
     Scenario:Valid login
         Given a user has an account on amazon.com
